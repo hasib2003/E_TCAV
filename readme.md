@@ -128,13 +128,13 @@ Supported datasets include:
 ### Vision Example
 
 ```bash
-bash run_tcav.sh scdb resnet50 default
+bash scripts/example_cv.sh scdb resnet50 default
 ```
 
 ### NLP Example
 
 ```bash
-bash run_tcav_text.sh wiki roberta-base default
+bash scripts/example_nlp.sh wiki roberta-base default
 ```
 
 ---
@@ -142,7 +142,7 @@ bash run_tcav_text.sh wiki roberta-base default
 ## Example Command
 
 ```bash
-python -m pipelines.evaluate-concepts-main \
+python -m pipelines.main \
     --tcav_mode default \
     --classifier default \
     --input_type image \

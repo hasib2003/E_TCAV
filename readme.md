@@ -159,7 +159,6 @@ python -m pipelines.main \
 ```bibtex
 @article{etcav2026,
   title={E-TCAV: Formalizing Penultimate Proxies for Efficient Concept-Based Interpretability},
-  author={Anonymous},
   year={2026}
 }
 ```

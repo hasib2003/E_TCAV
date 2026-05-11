@@ -1,0 +1,20 @@
+[
+    {   
+        "concepts_dir" : "<root>/celeba/concepts",
+        "concept_name": "with_necktie_1",
+        "random_prefix" : "without_necktie_",
+        "eval_samples_path": "<root>/celeba/eval-dirs/without_blonde_hair",
+        "class_idx": 0,
+        "class_name": "without blonde hair",
+        "num_exps":30
+    },
+    {   
+        "concepts_dir" : "<root>/celeba/concepts",
+        "concept_name": "with_necktie_1",
+        "random_prefix" : "without_necktie_",
+        "eval_samples_path": "<root>/celeba/eval-dirs/with_blonde_hair",
+        "class_idx": 1,
+        "class_name": "with blonde hair",
+        "num_exps":30
+    }
+]

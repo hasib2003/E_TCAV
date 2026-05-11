@@ -1,0 +1,38 @@
+[
+        {   
+        "concepts_dir" : "<root>/dataset/textures",
+        "concept_name": "striped",
+        "random_prefix" : "random500_",
+        "eval_samples_path": "/ds/images/imagenet/val_folders/n02391049",
+        "class_idx": 340,
+        "class_name": "zebra",
+        "num_exps":30
+    },
+    {   
+        "concepts_dir" : "<root>/dataset/textures",
+        "concept_name": "striped",
+        "random_prefix" : "random500_",
+        "eval_samples_path": "/ds/images/imagenet/val_folders/n02129604",
+        "class_idx": 292,
+        "class_name": "tiger",
+        "num_exps":30
+    },    
+    {   
+        "concepts_dir" : "<root>/dataset/textures",
+        "concept_name": "striped",
+        "random_prefix" : "random500_",
+        "eval_samples_path": "/ds/images/imagenet/val_folders/n02128385",
+        "class_idx": 288,
+        "class_name": "Leopard",
+        "num_exps":30
+    },        
+    {   
+        "concepts_dir" : "<root>/dataset/textures",
+        "concept_name": "striped",
+        "random_prefix" : "random500_",
+        "eval_samples_path": "/ds/images/imagenet/val_folders/n02129165",
+        "class_idx": 291,
+        "class_name": "Lion",
+        "num_exps":30
+    }    
+]

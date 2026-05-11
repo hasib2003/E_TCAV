@@ -1,0 +1,74 @@
+[
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_regular_streaks",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    },
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_irregular_streaks",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    },
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_typical_pigmentation",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    },
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_atypical_pigmentation",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    },
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_regular_dots_and_globules",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    },
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_irregular_dots_and_globules",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    },
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_regular_pigment_network",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    },
+    {
+        "concepts_dir": "<root>/derm7pt/concepts",
+        "concept_name": "positive_irregular_pigment_network",
+        "random_prefix": "random_50_",
+        "eval_samples_path": "<root>/ISIC/MEL",
+        "class_idx": 0,
+        "class_name": "not-melanoma",
+        "num_exps": 30
+    }
+]

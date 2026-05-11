@@ -1,0 +1,39 @@
+[
+    {   
+        "concepts_dir" : "<root>/nlp/wiki/data/concepts/samples",
+        "concept_name": "obscene",
+        "random_prefix" : "random_tweets_",
+        "eval_samples_path": "<root>/nlp/wiki/data/concepts/samples/evaluation-non-toxic.txt",
+        "class_idx": 0,
+        "num_exps":30,
+        "class_name": "non-toxic"
+    },
+    {   
+        "concepts_dir" : "<root>/nlp/wiki/data/concepts/samples",
+        "concept_name": "obscene",
+        "random_prefix" : "random_tweets_",
+        "eval_samples_path": "<root>/nlp/wiki/data/concepts/samples/evaluation-toxic.txt",
+        "class_idx": 1,
+        "num_exps":30,
+        "class_name": "toxic"
+    },    
+    {   
+        "concepts_dir" : "<root>/nlp/wiki/data/concepts/samples",
+        "concept_name": "insult",
+        "random_prefix" : "random_tweets_",
+        "eval_samples_path": "<root>/nlp/wiki/data/concepts/samples/evaluation-non-toxic.txt",
+        "class_idx": 0,
+        "num_exps":30,
+        "class_name": "non-toxic"
+    },
+    {   
+        "concepts_dir" : "<root>/nlp/wiki/data/concepts/samples",
+        "concept_name": "insult",
+        "random_prefix" : "random_tweets_",
+        "eval_samples_path": "<root>/nlp/wiki/data/concepts/samples/evaluation-toxic.txt",
+        "class_idx": 1,
+        "num_exps":30,
+        "class_name": "toxic"
+    }    
+    
+]
